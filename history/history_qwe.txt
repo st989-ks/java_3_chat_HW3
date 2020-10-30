@@ -1,0 +1,100 @@
+[ nick2 ] private [ Jeimc_Clark ]: asdfasdf
+[ nick1 ] private [ Jeimc_Clark ]: asdfasdf
+nick3 : hello
+nick1 : hello
+Jeimc_Clark :  fsadfasdf 
+Jeimc_Clark : a sdfasdf s
+Jeimc_Clark : asd fasd fsad
+aaa : sdf sdaf 
+aaa : as df sdaf
+[ aaa ] private [ Jeimc_Clark ]: as dfsdf asd
+aaa : as df asd
+Jeimc_Clark : 123 123 12
+Jeimc_Clark : 1 231 2312 3
+Jeimc_Clark : 1 2312 31
+aaa : sdf safd 
+Jeimc_Clark : dsfa sdf asd
+Jeimc_Clark : 12312 3123 123 123
+aaa : sd fsdfasdf asdf asdf
+aaa : asd fas dfasd f
+aaa : as df asdf sd 
+Jeimc_Clark : e rtwert wertw ertwe rt
+Jeimc_Clark : we rtwe rtwert wert wer
+rty : sdfg dsfg d
+rty : sdfg sdfgsdfg sdfg
+rty : sdf gsdf gds
+Jeimc_Clark : as dfsad 
+Jeimc_Clark : as dfsad f
+Jeimc_Clark : q sdr sdfg
+[ aaa ] private [ Jeimc_Clark ]: hg jfghj
+aaa : 123123 123123 12312
+Jeimc_Clark : 222222222 2 2 2 22 2 
+aaa : as dfsad f
+Jeimc_Clark : asdf asd f
+Jeimc_Clark : asdf sdf
+[ aaa ] private [ Jeimc_Clark ]: asd asd as
+[ aaa ] private [ Jeimc_Clark ]: asdf sadf asd
+
+[ Jeimc_Clark ]: sdfasdf
+[ Jeimc_Clark ]: as
+[ Jeimc_Clark ]: fas
+[ Jeimc_Clark ]: fa
+[ Jeimc_Clark ]: sf
+[ Jeimc_Clark ]: asdf
+[ Jeimc_Clark ]: g
+[ Jeimc_Clark ]: trgh
+[ Jeimc_Clark ]: rdtjh
+[ Jeimc_Clark ]: yk
+[ Jeimc_Clark ]: uil
+[ Jeimc_Clark ]: kt
+[ Jeimc_Clark ]: jsdgfd
+[ nick2 ] private [ Jeimc_Clark ]: asdfasdf
+[ nick1 ] private [ Jeimc_Clark ]: asdfasdf
+nick3 : hello
+nick1 : hello
+Jeimc_Clark :  fsadfasdf 
+Jeimc_Clark : a sdfasdf s
+Jeimc_Clark : asd fasd fsad
+aaa : sdf sdaf 
+aaa : as df sdaf
+[ aaa ] private [ Jeimc_Clark ]: as dfsdf asd
+aaa : as df asd
+Jeimc_Clark : 123 123 12
+Jeimc_Clark : 1 231 2312 3
+Jeimc_Clark : 1 2312 31
+aaa : sdf safd 
+Jeimc_Clark : dsfa sdf asd
+Jeimc_Clark : 12312 3123 123 123
+aaa : sd fsdfasdf asdf asdf
+aaa : asd fas dfasd f
+aaa : as df asdf sd 
+Jeimc_Clark : e rtwert wertw ertwe rt
+Jeimc_Clark : we rtwe rtwert wert wer
+rty : sdfg dsfg d
+rty : sdfg sdfgsdfg sdfg
+rty : sdf gsdf gds
+Jeimc_Clark : as dfsad 
+Jeimc_Clark : as dfsad f
+Jeimc_Clark : q sdr sdfg
+[ aaa ] private [ Jeimc_Clark ]: hg jfghj
+aaa : 123123 123123 12312
+Jeimc_Clark : 222222222 2 2 2 22 2 
+aaa : as dfsad f
+Jeimc_Clark : asdf asd f
+Jeimc_Clark : asdf sdf
+[ aaa ] private [ Jeimc_Clark ]: asd asd as
+[ aaa ] private [ Jeimc_Clark ]: asdf sadf asd
+Jeimc_Clark : sdfasdf
+Jeimc_Clark : as
+Jeimc_Clark : fas
+Jeimc_Clark : fa
+Jeimc_Clark : sf
+Jeimc_Clark : asdf
+Jeimc_Clark : g
+Jeimc_Clark : trgh
+Jeimc_Clark : rdtjh
+Jeimc_Clark : yk
+Jeimc_Clark : uil
+Jeimc_Clark : kt
+Jeimc_Clark : jsdgfd
+
